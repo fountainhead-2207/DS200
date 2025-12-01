@@ -166,7 +166,7 @@ def _get_pineapple_profile():
     return profile
 
 # ======================================================================
-# PHẦN 2: "CỖ MÁY" MÔ PHỎNG CHUNG (ĐÃ NÂNG CẤP)
+# PHẦN 2: "CỖ MÁY" MÔ PHỎNG CHUNG 
 # ======================================================================
 
 def _create_time_backbone(start_time, end_time, freq_min=10):
@@ -561,7 +561,7 @@ def _run_single_trip(df_gps_trip, trip_id, p):
 
 
 # ======================================================================
-# PHẦN 3: HÀM "ĐIỀU PHỐI" (DISPATCHER) CHÍNH (ĐÃ NÂNG CẤP)
+# PHẦN 3: HÀM "ĐIỀU PHỐI" (DISPATCHER) CHÍNH
 # ======================================================================
 
 def dispatch_simulation_by_fruit(fruit_cate, df_gps_trip, trip_id):
