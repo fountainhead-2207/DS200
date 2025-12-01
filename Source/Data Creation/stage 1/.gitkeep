@@ -1,0 +1,2 @@
+# Tạo .gitkeep cho folder trống "stage 1"
+New-Item -Path "d:\Desktop\Uni\3rd year\BigData\project\Bronze_layer\stage 1\.gitkeep" -ItemType File -Force
